@@ -1,8 +1,6 @@
 ![logo](https://raw.githubusercontent.com/zimmermannlowbrass/zimmermannlowbrass/main/logo.png)
 # About me
-Determined full stack software engineer, with background in manual testing mobile and web applications, seeking an opportunity to contribute and develop my skills in a challenging environment. Experience working with React, JavaScript, Python, Node.js, APIs, SQL, SQL-alchemy, HTML, CSS, and more.
-
-As an alumni from Yale University, I understand the drive toward perfection and the dedication required to get there. My experiences as a musician have ingrained skills in collaboration and teamwork, as well as organization. From my career as an educator, I have cultivated an expertise in various communication styles.
+Determined full stack software engineer, with background in manual testing mobile and web applications, seeking an opportunity to contribute and develop my skills in a challenging environment. As an alumni from Yale University, I understand the drive toward perfection and the dedication required to get there. My experiences as a musician have ingrained skills in collaboration and teamwork, as well as organization. From my career as an educator, I have cultivated an expertise in various communication styles.
 
 <!--
 **zimmermannlowbrass/zimmermannlowbrass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
