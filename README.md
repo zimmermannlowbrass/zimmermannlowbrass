@@ -1,5 +1,5 @@
 ![logo](https://raw.githubusercontent.com/zimmermannlowbrass/zimmermannlowbrass/main/logo.png)
-# Hey there! Thanks for visiting! Here's a short about me
+# Thanks for visiting! Here's a short about me
 Determined full stack software engineer, with background in manual testing mobile and web applications, seeking an opportunity to contribute and develop my skills in a challenging environment. As an alumni from Yale University, I understand the drive toward perfection and the dedication required to get there. My experiences as a musician have ingrained skills in collaboration and teamwork, as well as organization. From my career as an educator, I have cultivated an expertise in various communication styles.
 
 <!--
